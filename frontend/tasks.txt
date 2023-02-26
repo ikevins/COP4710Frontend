@@ -1,0 +1,12 @@
+Kevin
+Login Page and Register
+Styling css
+
+Colin
+Redux
+HomePage
+Routes
+
+Tasks to be done
+Google API
+Page for each Event
