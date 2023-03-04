@@ -10,3 +10,5 @@ Routes
 Tasks to be done
 Google API
 Page for each Event
+Social Media Integration
+Connecting both ends
